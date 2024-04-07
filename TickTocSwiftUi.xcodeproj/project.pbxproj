@@ -14,6 +14,21 @@
 		29EBDA132BC1250E00B774C6 /* TickTocSwiftUiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA122BC1250E00B774C6 /* TickTocSwiftUiTests.swift */; };
 		29EBDA1D2BC1250E00B774C6 /* TickTocSwiftUiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA1C2BC1250E00B774C6 /* TickTocSwiftUiUITests.swift */; };
 		29EBDA1F2BC1250E00B774C6 /* TickTocSwiftUiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA1E2BC1250E00B774C6 /* TickTocSwiftUiUITestsLaunchTests.swift */; };
+		29EBDA2E2BC126C200B774C6 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA2D2BC126C200B774C6 /* MainTabView.swift */; };
+		29EBDA302BC12AAF00B774C6 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA2F2BC12AAF00B774C6 /* Home.swift */; };
+		29EBDA332BC12E1D00B774C6 /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA322BC12E1D00B774C6 /* FeedView.swift */; };
+		29EBDA352BC132D700B774C6 /* FriendsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA342BC132D700B774C6 /* FriendsList.swift */; };
+		29EBDA372BC132F400B774C6 /* FriendsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA362BC132F400B774C6 /* FriendsCell.swift */; };
+		29EBDA3C2BC15F3D00B774C6 /* NotificationList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA3B2BC15F3D00B774C6 /* NotificationList.swift */; };
+		29EBDA3E2BC15FAE00B774C6 /* NotificationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA3D2BC15FAE00B774C6 /* NotificationCell.swift */; };
+		29EBDA412BC168FA00B774C6 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA402BC168FA00B774C6 /* ProfileView.swift */; };
+		29EBDA432BC1694600B774C6 /* ProfileHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA422BC1694600B774C6 /* ProfileHeader.swift */; };
+		29EBDA452BC1695E00B774C6 /* ProfileGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA442BC1695E00B774C6 /* ProfileGridView.swift */; };
+		29EBDA472BC16A2600B774C6 /* UserStatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA462BC16A2600B774C6 /* UserStatView.swift */; };
+		29EBDA4C2BC1771100B774C6 /* FeedViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA4B2BC1771100B774C6 /* FeedViewModel.swift */; };
+		29EBDA4E2BC1772200B774C6 /* FeedDataBeen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA4D2BC1772200B774C6 /* FeedDataBeen.swift */; };
+		29EBDA522BC27A1E00B774C6 /* CustomeVideoPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA512BC27A1E00B774C6 /* CustomeVideoPlayer.swift */; };
+		29EBDA552BC2A8A200B774C6 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EBDA542BC2A8A200B774C6 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +59,22 @@
 		29EBDA182BC1250E00B774C6 /* TickTocSwiftUiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TickTocSwiftUiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		29EBDA1C2BC1250E00B774C6 /* TickTocSwiftUiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TickTocSwiftUiUITests.swift; sourceTree = "<group>"; };
 		29EBDA1E2BC1250E00B774C6 /* TickTocSwiftUiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TickTocSwiftUiUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		29EBDA2D2BC126C200B774C6 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		29EBDA2F2BC12AAF00B774C6 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		29EBDA322BC12E1D00B774C6 /* FeedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedView.swift; sourceTree = "<group>"; };
+		29EBDA342BC132D700B774C6 /* FriendsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsList.swift; sourceTree = "<group>"; };
+		29EBDA362BC132F400B774C6 /* FriendsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsCell.swift; sourceTree = "<group>"; };
+		29EBDA3B2BC15F3D00B774C6 /* NotificationList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationList.swift; sourceTree = "<group>"; };
+		29EBDA3D2BC15FAE00B774C6 /* NotificationCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationCell.swift; sourceTree = "<group>"; };
+		29EBDA402BC168FA00B774C6 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		29EBDA422BC1694600B774C6 /* ProfileHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHeader.swift; sourceTree = "<group>"; };
+		29EBDA442BC1695E00B774C6 /* ProfileGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileGridView.swift; sourceTree = "<group>"; };
+		29EBDA462BC16A2600B774C6 /* UserStatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserStatView.swift; sourceTree = "<group>"; };
+		29EBDA4B2BC1771100B774C6 /* FeedViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewModel.swift; sourceTree = "<group>"; };
+		29EBDA4D2BC1772200B774C6 /* FeedDataBeen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedDataBeen.swift; sourceTree = "<group>"; };
+		29EBDA4F2BC1822000B774C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		29EBDA512BC27A1E00B774C6 /* CustomeVideoPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomeVideoPlayer.swift; sourceTree = "<group>"; };
+		29EBDA542BC2A8A200B774C6 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +125,16 @@
 		29EBDA002BC1250C00B774C6 /* TickTocSwiftUi */ = {
 			isa = PBXGroup;
 			children = (
+				29EBDA532BC2A88C00B774C6 /* Extenstion */,
+				29EBDA502BC27A1300B774C6 /* Components */,
+				29EBDA4F2BC1822000B774C6 /* Info.plist */,
+				29EBDA392BC15EF000B774C6 /* Friends */,
+				29EBDA382BC15ED800B774C6 /* Home */,
+				29EBDA3A2BC15F2E00B774C6 /* Notification */,
+				29EBDA3F2BC168D500B774C6 /* Profile */,
+				29EBDA2C2BC126A600B774C6 /* Root */,
+				29EBDA2B2BC1269D00B774C6 /* TabViews */,
 				29EBDA012BC1250C00B774C6 /* TickTocSwiftUiApp.swift */,
-				29EBDA032BC1250C00B774C6 /* ContentView.swift */,
 				29EBDA052BC1250D00B774C6 /* Assets.xcassets */,
 				29EBDA072BC1250D00B774C6 /* Preview Content */,
 			);
@@ -125,6 +164,102 @@
 				29EBDA1E2BC1250E00B774C6 /* TickTocSwiftUiUITestsLaunchTests.swift */,
 			);
 			path = TickTocSwiftUiUITests;
+			sourceTree = "<group>";
+		};
+		29EBDA2B2BC1269D00B774C6 /* TabViews */ = {
+			isa = PBXGroup;
+			children = (
+				29EBDA2D2BC126C200B774C6 /* MainTabView.swift */,
+			);
+			path = TabViews;
+			sourceTree = "<group>";
+		};
+		29EBDA2C2BC126A600B774C6 /* Root */ = {
+			isa = PBXGroup;
+			children = (
+				29EBDA032BC1250C00B774C6 /* ContentView.swift */,
+			);
+			path = Root;
+			sourceTree = "<group>";
+		};
+		29EBDA382BC15ED800B774C6 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				29EBDA482BC176E500B774C6 /* View */,
+				29EBDA492BC176E900B774C6 /* ViewModel */,
+				29EBDA4A2BC176EE00B774C6 /* Services */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		29EBDA392BC15EF000B774C6 /* Friends */ = {
+			isa = PBXGroup;
+			children = (
+				29EBDA342BC132D700B774C6 /* FriendsList.swift */,
+				29EBDA362BC132F400B774C6 /* FriendsCell.swift */,
+			);
+			path = Friends;
+			sourceTree = "<group>";
+		};
+		29EBDA3A2BC15F2E00B774C6 /* Notification */ = {
+			isa = PBXGroup;
+			children = (
+				29EBDA3B2BC15F3D00B774C6 /* NotificationList.swift */,
+				29EBDA3D2BC15FAE00B774C6 /* NotificationCell.swift */,
+			);
+			path = Notification;
+			sourceTree = "<group>";
+		};
+		29EBDA3F2BC168D500B774C6 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				29EBDA402BC168FA00B774C6 /* ProfileView.swift */,
+				29EBDA422BC1694600B774C6 /* ProfileHeader.swift */,
+				29EBDA442BC1695E00B774C6 /* ProfileGridView.swift */,
+				29EBDA462BC16A2600B774C6 /* UserStatView.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		29EBDA482BC176E500B774C6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				29EBDA2F2BC12AAF00B774C6 /* Home.swift */,
+				29EBDA322BC12E1D00B774C6 /* FeedView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		29EBDA492BC176E900B774C6 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				29EBDA4B2BC1771100B774C6 /* FeedViewModel.swift */,
+				29EBDA4D2BC1772200B774C6 /* FeedDataBeen.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		29EBDA4A2BC176EE00B774C6 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		29EBDA502BC27A1300B774C6 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				29EBDA512BC27A1E00B774C6 /* CustomeVideoPlayer.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		29EBDA532BC2A88C00B774C6 /* Extenstion */ = {
+			isa = PBXGroup;
+			children = (
+				29EBDA542BC2A8A200B774C6 /* Extensions.swift */,
+			);
+			path = Extenstion;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -190,6 +325,9 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
+				KnownAssetTags = (
+					New,
+				);
 				LastSwiftUpdateCheck = 1530;
 				LastUpgradeCheck = 1530;
 				TargetAttributes = {
@@ -257,8 +395,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				29EBDA4C2BC1771100B774C6 /* FeedViewModel.swift in Sources */,
+				29EBDA332BC12E1D00B774C6 /* FeedView.swift in Sources */,
+				29EBDA3E2BC15FAE00B774C6 /* NotificationCell.swift in Sources */,
+				29EBDA4E2BC1772200B774C6 /* FeedDataBeen.swift in Sources */,
+				29EBDA452BC1695E00B774C6 /* ProfileGridView.swift in Sources */,
+				29EBDA522BC27A1E00B774C6 /* CustomeVideoPlayer.swift in Sources */,
+				29EBDA472BC16A2600B774C6 /* UserStatView.swift in Sources */,
+				29EBDA412BC168FA00B774C6 /* ProfileView.swift in Sources */,
 				29EBDA042BC1250C00B774C6 /* ContentView.swift in Sources */,
 				29EBDA022BC1250C00B774C6 /* TickTocSwiftUiApp.swift in Sources */,
+				29EBDA302BC12AAF00B774C6 /* Home.swift in Sources */,
+				29EBDA3C2BC15F3D00B774C6 /* NotificationList.swift in Sources */,
+				29EBDA2E2BC126C200B774C6 /* MainTabView.swift in Sources */,
+				29EBDA352BC132D700B774C6 /* FriendsList.swift in Sources */,
+				29EBDA552BC2A8A200B774C6 /* Extensions.swift in Sources */,
+				29EBDA372BC132F400B774C6 /* FriendsCell.swift in Sources */,
+				29EBDA432BC1694600B774C6 /* ProfileHeader.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -419,17 +572,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"TickTocSwiftUi/Preview Content\"";
 				DEVELOPMENT_TEAM = RA8JN3K45Y;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TickTocSwiftUi/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "Lkdlkfjdlkj UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -437,6 +593,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.TickTocSwiftUi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -448,17 +605,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"TickTocSwiftUi/Preview Content\"";
 				DEVELOPMENT_TEAM = RA8JN3K45Y;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TickTocSwiftUi/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "Lkdlkfjdlkj UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -466,6 +626,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.TickTocSwiftUi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
